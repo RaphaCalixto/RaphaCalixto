@@ -1,9 +1,13 @@
 ### Oiee! Eu sou o Raphael Calixto 👋
 
 💻Focado em Full Stack, mas prefiro o front
+<p>
 📚Cursando Engenharia da Computação
+<p>
 🎮Amo vídeo games
+<p>
 🎬Cinéfilo 
+  <p>
 
 
 
