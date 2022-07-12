@@ -38,8 +38,7 @@
  
   <a href = "mailto:raphacalixto10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
- 
-   <a href = "https://www.linkedin.com/in/raphael-roberto-calixto-10a204234/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg" /> target="_blank"></a>
+   <a href = "mailto:raphacalixto10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
 
