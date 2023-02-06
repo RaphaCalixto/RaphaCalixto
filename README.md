@@ -12,10 +12,9 @@
 
 
 
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/RaphaCalixto">   
-</div>
-  <div style="display: inline_block"><br>
+ 
   <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=&theme=tokyonight"
