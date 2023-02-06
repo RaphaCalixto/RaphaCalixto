@@ -32,7 +32,7 @@
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto"
             />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto&show_icons=&theme=tokyonight" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto&layout=compact&show_icons=&theme=tokyonight" 
      />
   
   
