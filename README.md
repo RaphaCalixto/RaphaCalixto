@@ -1,13 +1,8 @@
 ### <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="45"/> 𝐼'𝑚 𝑅𝑎𝑝ℎ𝑎𝑒𝑙 𝒞𝑎𝑙𝑖𝑥𝑡𝑜
 
-💻Focado em Full Stack, mas prefiro o front
-<p>
-📚Cursando Engenharia da Computação
-<p>
-🎮Amo vídeo games
-<p>
-🎬Cinéfilo 
-  <p>
+- 🤝 I’m available for freelancing.
+
+- 📫 How to reach me: *raphacalixto10@gmail.com*  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
     <div align="center">
   <a href="https://github.com/RaphaCalixto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
