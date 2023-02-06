@@ -39,7 +39,5 @@
  
 </div>
 
-𝐵𝑦𝑒 𝐵𝑦𝑒 <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/>
-
-<img src="https://media.tenor.com/EJ1C6RDW3YoAAAAM/kakashi-bye-bye-anime.gif" width="100"/>
+<img src="https://media.tenor.com/EJ1C6RDW3YoAAAAM/kakashi-bye-bye-anime.gif" width="300"/>
 
