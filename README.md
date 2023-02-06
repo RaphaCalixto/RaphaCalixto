@@ -28,15 +28,7 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto&layout=compact&show_icons=&theme=tokyonight" 
      />
-   
-    <a href="https://github.com/Raphacalixto/githubRaphaCalixto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaphaCalixto&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/RaphaCalixto/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaphaCalixto&repo=convoychat" />
-</a>
- 
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rapha-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
