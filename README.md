@@ -1,7 +1,7 @@
 ### <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="45"/> 𝐼'𝑚 𝑅𝑎𝑝ℎ𝑎𝑒𝑙 𝒞𝑎𝑙𝑖𝑥𝑡𝑜
--  💻 Computer engineer <img src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-computador-15.gif" width="30px">
+-  💻 Computer engineer <img src="https://content.presentermedia.com/content/animsp/00007000/7364/hard_working_on_computer_anim_md_nwm_v2.gif" width="30px">
       
-- 🤝 I’m available for freelancing. 
+- 🤝 <img src="https://www.pngfind.com/pngs/m/47-477447_handshake-png-icon-hand-shake-icon-png-transparent.png" width="30px">  I’m available for freelancing. 
 
 - 📫 How to contact me: *raphacalixto10@gmail.com*  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4843fc2a-40b0-47d2-8b76-30d467af7747/d6nqc8g-e5d9284d-2fb0-4a73-8a59-666126d27449.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ4NDNmYzJhLTQwYjAtNDdkMi04Yjc2LTMwZDQ2N2FmNzc0N1wvZDZucWM4Zy1lNWQ5Mjg0ZC0yZmIwLTRhNzMtOGE1OS02NjYxMjZkMjc0NDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GNjpx-EqUPLi8tmFj_oPVXwDUxNiEzPOVRFJp7LTLTU" width="30px">
     <div align="center">
