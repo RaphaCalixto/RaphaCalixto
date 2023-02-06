@@ -19,7 +19,7 @@
     <img align="center" alt="Rapha-PHP" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
     <img align="center" alt="Rapha-GIT" height="65" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
     <img align="center" alt="Rapha-MYQSL" height="65" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-    <img align="center" alt="Rapha-Oracle" height="65" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+    <img align="center" alt="Rapha-Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
     
  
    
