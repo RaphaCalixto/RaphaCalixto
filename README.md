@@ -19,11 +19,11 @@
   <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: radical)"
+  media="(prefers-color-scheme: tokyonight)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true"
-  media="(prefers-color-scheme: radical), (prefers-color-scheme: radical)"
+  media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: tokyonight)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true" />
 </picture>
