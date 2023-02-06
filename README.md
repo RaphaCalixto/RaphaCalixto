@@ -17,8 +17,7 @@
     <img align="center" alt="Rapha-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     
  
-    <img align="right" alt="Rapha-pic" height="150" style="border-radius:50px;" 
-  src="https://cdn.discordapp.com/attachments/559918678980821013/991485331213930566/338224_YSRPqb0A.png">
+   
 </div>
   
   ##
