@@ -10,7 +10,6 @@
   <p>
 
   <a href="https://github.com/RaphaCalixto">   
- <div style="display: inline_block">
   <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=&theme=tokyonight"
