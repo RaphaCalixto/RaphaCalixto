@@ -28,8 +28,8 @@
             />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto&layout=compact&show_icons=&theme=tokyonight" 
-       </a>
      />
+    </a>
  
   
 <div style="display: inline_block"><br>
