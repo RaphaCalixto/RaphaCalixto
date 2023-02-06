@@ -19,12 +19,6 @@
   <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=&theme=tokyonight"
-        
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto"
-            />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto&show_icons=&theme=tokyonight" 
-     />
         />
     <source
   srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true"
@@ -35,6 +29,11 @@
 </picture>
 
   <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto"
+            />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto&show_icons=&theme=tokyonight" 
+     />
   
   
 <div style="display: inline_block"><br>
