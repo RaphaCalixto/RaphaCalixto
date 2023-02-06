@@ -1,7 +1,5 @@
 ### <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="45"/> 𝐼'𝑚 𝑅𝑎𝑝ℎ𝑎𝑒𝑙 𝒞𝑎𝑙𝑖𝑥𝑡𝑜
--  💻 Computer engineer
-
-- 🤝 My main focus is on  <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"> <img align="center" alt="Rapha-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"> <img align="center" alt="Rapha-Js" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+-  💻 Computer engineer <img src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-computador-15.gif" width="30px">
       
 - 🤝 I’m available for freelancing. 
 
