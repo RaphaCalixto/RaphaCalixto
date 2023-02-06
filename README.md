@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/RaphaCalixto">
-  <img height="180em" src="read-rdcydqjsp-raphacalixto.vercel.app/api?![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)"/>
+  
   <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)"/>
 </div>
 <div style="display: inline_block"><br>
