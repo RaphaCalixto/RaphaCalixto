@@ -1,4 +1,4 @@
-### <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="45"/> I'm Rαphαel Cαlixto 
+### <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="45"/> 𝐼'𝑚 𝑅𝑎𝑝ℎ𝑎𝑒𝑙 𝒞𝑎𝑙𝑖𝑥𝑡𝑜
 
 💻Focado em Full Stack, mas prefiro o front
 <p>
@@ -39,4 +39,7 @@
  
 </div>
 
-𝙱𝚢𝚎 𝙱𝚢𝚎 <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/>
+𝐵𝑦𝑒 𝐵𝑦𝑒 <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/>
+
+<img src="https://media.tenor.com/EJ1C6RDW3YoAAAAM/kakashi-bye-bye-anime.gif" width="100"/>
+
