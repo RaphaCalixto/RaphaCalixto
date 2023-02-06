@@ -10,7 +10,7 @@
   </a>
 </div>
 <p>
- <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b145bd42c65da4ad802ec30de3ee317e6cb4f86d&rid=giphy.gif&ct=g" width="300px">
+ <img align="right" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" width="300px">
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
