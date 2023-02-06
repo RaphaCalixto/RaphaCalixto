@@ -18,12 +18,12 @@
   
   <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=True&theme=radical"
-  media="(prefers-color-scheme: tokyonight)"
+  srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=True&theme=dark"
+  media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true"
-  media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: tokyonight)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true" />
 </picture>
