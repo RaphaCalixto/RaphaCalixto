@@ -20,13 +20,6 @@
             />
 <img src="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true" 
      />
-    <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto"
-            />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto&layout=compact&show_icons=&theme=tokyonight" 
-     />
-    
 </picture>
 
   <source
