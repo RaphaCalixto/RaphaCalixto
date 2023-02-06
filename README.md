@@ -30,7 +30,7 @@
   <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto"
             />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto" 
+
   
   
 <div style="display: inline_block"><br>
