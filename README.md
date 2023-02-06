@@ -19,20 +19,23 @@
   <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=&theme=tokyonight"
+        
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto"
+            />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto&show_icons=&theme=tokyonight" 
+     />
         />
     <source
   srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true"
             />
 <img src="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true" 
      />
+    
 </picture>
 
   <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto"
-            />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto&show_icons=&theme=tokyonight" 
-     />
+  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
