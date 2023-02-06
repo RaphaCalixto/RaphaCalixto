@@ -1,5 +1,5 @@
 ### <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="45"/> 𝐼'𝑚 𝑅𝑎𝑝ℎ𝑎𝑒𝑙 𝒞𝑎𝑙𝑖𝑥𝑡𝑜
--  💻 Computer Engineer     <img src="https://media.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif" width="30px">
+-  💻 Computer Engineer   
 
 - 🤝 I’m available for freelancing. 
 - 📫 How to contact me: *raphacalixto10@gmail.com*  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4843fc2a-40b0-47d2-8b76-30d467af7747/d6nqc8g-e5d9284d-2fb0-4a73-8a59-666126d27449.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ4NDNmYzJhLTQwYjAtNDdkMi04Yjc2LTMwZDQ2N2FmNzc0N1wvZDZucWM4Zy1lNWQ5Mjg0ZC0yZmIwLTRhNzMtOGE1OS02NjYxMjZkMjc0NDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GNjpx-EqUPLi8tmFj_oPVXwDUxNiEzPOVRFJp7LTLTU" width="30px">
@@ -9,6 +9,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
+
+ <img src="https://media.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif" width="300px">
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
