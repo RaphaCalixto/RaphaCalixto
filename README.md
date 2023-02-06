@@ -1,5 +1,5 @@
 ### <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="45"/> 𝐼'𝑚 𝑅𝑎𝑝ℎ𝑎𝑒𝑙 𝒞𝑎𝑙𝑖𝑥𝑡𝑜
--  💻 Computer engineer 
+-  💻 Computer Engineer 
       
 - 🤝 I’m available for freelancing. 
 
