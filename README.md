@@ -8,27 +8,6 @@
 <p>
 🎬Cinéfilo 
   <p>
-
-  <a href="https://github.com/RaphaCalixto">  
-    
-  <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=&theme=tokyonight"
-        />
-    <source
-  srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true"
-            />
-<img src="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true" 
-     />
-</picture>
-
-  <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto"
-            />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto&layout=compact&show_icons=&theme=tokyonight" 
-     />
-    
     <div align="center">
   <a href="https://github.com/RaphaCalixto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
