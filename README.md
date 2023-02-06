@@ -15,7 +15,7 @@
 <div align="center">
   <a href="https://github.com/RaphaCalixto">   
 </div>
-  
+  <div style="display: inline_block"><br>
   <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=&theme=tokyonight"
@@ -34,7 +34,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto&layout=compact&show_icons=&theme=tokyonight" 
      />
-  
+  </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
