@@ -22,9 +22,9 @@
  />
     <source
   srcset="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true"
-  
-/>
 
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true" />
 </picture>
   
 <div style="display: inline_block"><br>
