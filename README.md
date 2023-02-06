@@ -1,4 +1,4 @@
-### <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="45"/> I'm Rαphαel Cαlixto 
+### <img src="https://i.pinimg.com/originals/b7/43/52/b743527a755c9e382579da4eb63c03d1.gif" width="45"/> I'm Rαphαel Cαlixto 
 
 💻Focado em Full Stack, mas prefiro o front
 <p>
