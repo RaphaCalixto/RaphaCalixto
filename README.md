@@ -14,9 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/RaphaCalixto">
-    <img align="center" alt="Rapha-Js" height="30" width="40" src="https://github-readme-stats.vercel.app/api?username=RaphaCalixto)](https://github.com/RaphaCalixto/github-readme-stats)">
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaCalixto)](https://github.com/RaphaCalixto/github-readme-stats)"/>
+    <img align="center" alt="Rapha-Js" height="200" width="200" src="https://github-readme-stats.vercel.app/api?username=RaphaCalixto)](https://github.com/RaphaCalixto/github-readme-stats)">
       
 </div>
 <div style="display: inline_block"><br>
