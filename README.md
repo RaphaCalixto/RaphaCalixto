@@ -9,8 +9,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
-
- <img align="center" src="https://media.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif" width="300px">
+<p>
+ <img align="right" src="https://media.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif" width="300px">
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
