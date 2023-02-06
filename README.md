@@ -2,7 +2,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 📫 How to reach me: *raphacalixto10@gmail.com*  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+- 📫 How to reach me: *raphacalixto10@gmail.com*  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4843fc2a-40b0-47d2-8b76-30d467af7747/d6nqc8g-e5d9284d-2fb0-4a73-8a59-666126d27449.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ4NDNmYzJhLTQwYjAtNDdkMi04Yjc2LTMwZDQ2N2FmNzc0N1wvZDZucWM4Zy1lNWQ5Mjg0ZC0yZmIwLTRhNzMtOGE1OS02NjYxMjZkMjc0NDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GNjpx-EqUPLi8tmFj_oPVXwDUxNiEzPOVRFJp7LTLTU" width="27px">
     <div align="center">
   <a href="https://github.com/RaphaCalixto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true&theme=radical&include_all_commits"/>
