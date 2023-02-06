@@ -1,4 +1,4 @@
-### Oiee! Eu sou o Raphael Calixto 👋
+### Oiee! Eu sou o Raphael Calixto 👋 <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/>
 
 💻Focado em Full Stack, mas prefiro o front
 <p>
