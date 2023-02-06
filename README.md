@@ -5,7 +5,7 @@
 - 📫 How to reach me: *raphacalixto10@gmail.com*  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
     <div align="center">
   <a href="https://github.com/RaphaCalixto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true&theme=radical&include_all_commits=true&count_private=False"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaCalixto&show_icons=true&theme=radical&include_all_commits"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaCalixto&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
