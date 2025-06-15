@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Desenvolvedor Front-End | Computer Engineer</strong> <br/>
- 
+  <img src="https://cdn.discordapp.com/attachments/783855679957106699/1072288426319171635/104-1049036_handshake-png-icon-free-clipart.png" width="18px"> Disponível para freelas <br/>
   📫 Contato: <strong>raphacalixto10@gmail.com</strong>
 </p>
 
@@ -12,9 +12,9 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
-<div style="display: inline_block" align="center"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="NextJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Tailwind" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="TailwindCSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
@@ -25,9 +25,9 @@
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="WordPress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-  <img align="center" alt="VTEX" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/0/01/VTEX_Logo.svg">
+  <img align="center" alt="VTEX" height="40" width="40" src="https://seeklogo.com/images/V/vtex-logo-472A7E6DBD-seeklogo.com.png">
   <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="GoogleAds" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Google_Ads_logo.svg">
+  <img align="center" alt="Google Ads" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Google-Ads-Logo.svg/512px-Google-Ads-Logo.svg.png">
 </div>
 
 ---
