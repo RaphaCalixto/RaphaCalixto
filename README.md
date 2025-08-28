@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Desenvolvedor Front-End | Computer Engineer</strong> <br/>
-  <img src="https://cdn.discordapp.com/attachments/783855679957106699/1072288426319171635/104-1049036_handshake-png-icon-free-clipart.png" width="18px"> Disponível para freelas <br/>
+  📫 Disponível para freelas <br/>
   📫 Contato: <strong>raphacalixto10@gmail.com</strong>
   <br>
    Portifólio: <strong>https://portif-lio-mocha-rho.vercel.app/</strong>
