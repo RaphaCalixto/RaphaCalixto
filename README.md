@@ -2,6 +2,10 @@
   Olá! Eu sou <strong>Raphael Calixto</strong> 👨🏻‍💻
 </h1>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=RaphaCalixto&label=Profile%20views&color=0e75b6&style=flat" alt="RaphaCalixto" />
+</p>
+
 <p align="center">
   <strong>Desenvolvedor Front-End | Computer Engineer</strong> <br/>
   <img src="https://cdn.discordapp.com/attachments/783855679957106699/1072288426319171635/104-1049036_handshake-png-icon-free-clipart.png" width="18px"> Disponível para freelas <br/>
@@ -55,6 +59,17 @@
   <a href="https://www.linkedin.com/in/raphael-roberto-calixto-10a204234/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+</div>
+
+---
+
+## 🐍 Snake de Contribuições
+
+<div align="center">
+
+![snake svg](https://raw.githubusercontent.com/RaphaCalixto/RaphaCalixto/output/snake.svg#gh-light-mode-only)
+![snake svg](https://raw.githubusercontent.com/RaphaCalixto/RaphaCalixto/output/snake-dark.svg#gh-dark-mode-only)
+
 </div>
 
 ---
